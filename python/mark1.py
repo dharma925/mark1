@@ -1,3 +1,5 @@
-print("hubfv")
-import matplotlib
-matplotlib.plt(2,4,5,6,7,8,8,)
+print("updated successfully")
+import matplotlib as mp
+print("matplotlib imported successfully as mp")
+import numpy as n
+print("numpy imported successfully as n")
