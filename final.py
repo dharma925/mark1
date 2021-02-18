@@ -1,1 +1,1 @@
-print("experienced githun repo a bit successfully")
+print("experienced github repo a bit successfully")
