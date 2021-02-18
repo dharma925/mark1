@@ -1,1 +1,5 @@
 Hi this is my first txt file in github
+okay I tried git pull command
+now let me try git push
+test 1 failed, trying for test2
+test2 too failed, trying for test3
